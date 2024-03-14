@@ -30,10 +30,8 @@ Si te interesa [contribuir](#contribución) en este repositorio puedes hacerlo d
 
 # Comunidad
 
-- Puedes seguir a Fernanda en nuestra cuenta de [Instagram](https://www.instagram.com/fernandacader/) para ver publicaciones sobre ciencia de datos
 - ¡Tenemos un servidor de Discord! Aquí podras compartir tus experiencias y conocer a otros estudiantes [Únete al Discord de Datos Para Todos](https://discord.gg/GNFhw3CHve) <a href="https://discord.gg/GNFhw3CHve">
     		<img src="https://img.shields.io/discord/715323337240477707.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2" alt="Discord">
-- También puedes ver el contenido de Fernanda en [Linkedin](https://www.linkedin.com/in/fernandacader/).
 
 # Índice
 
@@ -291,7 +289,7 @@ Una vez que hayas enviado tu "pull request", los colaboradores podremos revisar 
 
 ## Contribuidores 🏆
 
-* [Fernanda Cader](https://github.com/FernandaCader): Fundadora de Datos Para Todos.
-* [Nicolás Montenegro](https://github.com/nicolascmontenegro): Primer Colaborador.
+* [Fernanda Cader](https://github.com/FernandaCader)
+* [Nicolás Montenegro](https://github.com/nicolascmontenegro)
 
 
