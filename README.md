@@ -1,8 +1,8 @@
 <div align="center">
 
-# Recursos para Estudiar Ciencias De Datos
+# Recursos para Estudiar Ciencias De Datos con Ariel Chitay
 
-![Datos Para Todos](https://i.imgur.com/cl5lXMO.png)
+![Datos Para Todos](https://www.pngwing.com/es/free-png-ddhjr)
 
 Creado por: [Fernanda Cader](https://github.com/FernandaCader)
 
